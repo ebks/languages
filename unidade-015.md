@@ -104,18 +104,22 @@ O estudo do Chinês Antigo e Médio, através da análise textual, da reconstru�
 **Para Aprofundar**
 
 BAXTER, William H. *A Handbook of Old Chinese Phonology*. Berlin; New York: Mouton de Gruyter, 1992. (Trends in Linguistics. Studies and Monographs, 64).
+
 Uma obra fundamental e altamente influente na reconstrução da fonologia do Chinês Antigo. Apresenta um sistema detalhado baseado em múltiplas fontes de evidência (rimas, grafias, dialetos, empréstimos). Essencial para quem busca entender a metodologia e os resultados da reconstrução fonológica do OC, embora técnico e denso.
 
 BAXTER, William H.; SAGART, Laurent. *Old Chinese: A New Reconstruction*. Oxford: Oxford University Press, 2014.
+
 A mais recente e abrangente reconstrução da fonologia e morfologia do Chinês Antigo pelos mesmos autores do sistema Baxter (1992), incorporando novas metodologias, dados e insights. Apresenta um sistema refinado com prefixos, infixos e uma análise detalhada da evolução para o Chinês Médio. Obra de referência atual para especialistas.
 
 NORMAN, Jerry. *Chinese*. Cambridge: Cambridge University Press, 1988. (Cambridge Language Surveys).
+
 Uma excelente introdução geral à família linguística chinesa. Embora cubra também as variedades modernas, possui capítulos substanciais sobre a história da língua, incluindo discussões claras sobre o Chinês Antigo e Médio, suas características, reconstrução e a evolução para os dialetos modernos. Ótimo ponto de partida para uma visão geral.
 
 PULLEYBLANK, Edwin G. *Middle Chinese: A Study in Historical Phonology*. Vancouver: UBC Press, 1984.
+
 Uma análise detalhada e influente da fonologia do Chinês Médio, baseada principalmente no sistema do *Qieyun*. Discute as iniciais, finais e tons, e sua relação com o Chinês Antigo e as variedades modernas, além das pronúncias Sino-Xênicas. Obra fundamental para o estudo do MC.
 
 PULLEYBLANK, Edwin G. *Outline of Classical Chinese Grammar*. Vancouver: UBC Press, 1995.
+
 Um manual conciso e útil focado na gramática (principalmente sintaxe e partículas) do Chinês Clássico (que corresponde amplamente ao Chinês Antigo tardio e início do Chinês Médio). Explica as estruturas frasais, palavras funcionais e padrões comuns encontrados nos textos clássicos. Ideal para estudantes que começam a ler textos nesse estágio da língua.
 
----
