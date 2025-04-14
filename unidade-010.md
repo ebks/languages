@@ -108,17 +108,22 @@ O Persa Antigo, embora conhecido por um corpus limitado, oferece uma visão fasc
 **Para Aprofundar**
 
 KENT, Roland G. *Old Persian: Grammar, Texts, Lexicon*. 2. ed. rev. New Haven: American Oriental Society, 1953. (American Oriental Series, 33).
+
 A obra de referência clássica e fundamental em inglês para o Persa Antigo. Contém uma gramática detalhada, a edição completa de todas as inscrições conhecidas (em cuneiforme, transliteração e tradução), e um léxico abrangente. Indispensável para o estudo da língua.
 
 SCHMITT, Rüdiger. *The Old Persian Inscriptions of Naqsh-i Rustam and Persepolis*. London: School of Oriental and African Studies, University of London, 2000. (Corpus Inscriptionum Iranicarum. Part I, Inscriptions of Ancient Iran, Vol. I, The Old Persian Inscriptions, Texts II).
+
 Um exemplo de edição crítica moderna de inscrições específicas, focado em Persépolis e Naqsh-i Rustam. Inclui fotografias, desenhos, transliterações, traduções e comentários filológicos e linguísticos detalhados. Representa o estado da arte na edição de textos.
 
 SCHMITT, Rüdiger. *Die altpersischen Inschriften der Achaimeniden: Editio minor mit deutscher Übersetzung*. Wiesbaden: Reichert Verlag, 2009.
+
 Uma edição menor mais recente por um dos maiores especialistas, contendo todas as inscrições em transliteração com tradução para o alemão. Útil como um compêndio atualizado dos textos para leitura e referência.
 
 SKJÆRVØ, Prods Oktor. *An Introduction to Old Persian*. 2. ed. Cambridge, MA: Harvard University Department of Near Eastern Languages and Civilizations, 2005. (Versão online).
+
 Um manual introdutório moderno, disponível online, que apresenta a gramática do Persa Antigo de forma clara e sistemática, com explicações sobre a escrita, exercícios e leituras selecionadas. Excelente recurso para estudantes.
 
 TOLMAN, Herbert Cushing. *Ancient Persian Lexicon and Texts*. New York; Cincinnati: American Book Company, 1908.
+
 Uma obra mais antiga, mas historicamente importante, que inclui um léxico e os textos das principais inscrições conhecidas na época. Útil para uma perspectiva histórica da pesquisa e como fonte adicional.
 
