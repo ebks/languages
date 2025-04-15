@@ -89,46 +89,57 @@ O Gujarati Padrão Moderno é uma língua Indo-Ariana flexional, com caracterís
 *   **Olá / Adeus:**
     *   Original: નમસ્તે / જય શ્રી કૃષ્ણ (comum entre Vaishnavas)
     *   Translit.: *Namaste / Jay Śrī Kṛṣṇa*
+    *   IPA: /nəməste/ /d͡ʒəj ʃɾi kɾuʃɳə/
     *   Pronúncia Aprox.: *Na-mas-TÊ / Djâi Xrí KRISH-na*
 *   **Como vai?**
     *   Original: (તમે) કેમ છો?
     *   Translit.: *(Tame) Kem chho?*
+    *   IPA: /(t̪əme) kɛm t͡ʃʰo/
     *   Pronúncia Aprox.: *(Ta-mê) QUÊM tchô?*
 *   **Por favor:**
     *   Original: મહેરબાની કરીને
     *   Translit.: *Meherbānī karīne*
+    *   IPA: /meɦeɾbaːniː kəɾiːne/
     *   Pronúncia Aprox.: *Me-rer-BÁA-nii ca-RÍI-nê*
 *   **Obrigado(a):**
     *   Original: (તમારો) આભાર / ધન્યવાદ
     *   Translit.: *(Tamāro) Ābhār / Dhanyavād*
+    *   IPA: /(t̪əmaːɾo) aːbʱaːɾ/ /d̪ʱən̪jəʋad̪/
     *   Pronúncia Aprox.: *(Ta-máa-ro) ÁA-bháar / DHÂN-ia-váad* ('bh/dh' murmurados)
 *   **Sim:**
     *   Original: હા
     *   Translit.: *Hā*
+    *   IPA: /ɦaː/
     *   Pronúncia Aprox.: *Ráa* ('h' sonoro)
 *   **Não:**
     *   Original: ના
     *   Translit.: *Nā*
+    *   IPA: /naː/
     *   Pronúncia Aprox.: *Náa*
 *   **Com licença / Desculpe-me:**
     *   Original: માફ કરજો
     *   Translit.: *Māf karjo*
+    *   IPA: /maːf kəɾd͡ʒo/
     *   Pronúncia Aprox.: *Máaf CAR-djô*
 *   **Quanto custa (isto)?**
     *   Original: (આ) કેટલાનું છે?
     *   Translit.: *(Ā) Keṭlānũ chhe?*
+    *   IPA: /(a) keʈlaːnũ t͡ʃʰe/
     *   Pronúncia Aprox.: *(Áa) QUET-laa-nun tchê?* ('t' retroflexo, 'n' nasal)
 *   **Onde fica o banheiro?**
     *   Original: શૌચાલય ક્યાં છે? / બાથરૂમ ક્યાં છે?
     *   Translit.: *Śaucālay kyā̃ chhe? / Bāthrūm kyā̃ chhe?*
+    *   IPA: /ʃəut͡ʃaːləj kjãː t͡ʃʰe/ /baːt̪ʰɾuːm kjãː t͡ʃʰe/
     *   Pronúncia Aprox.: *Xôu-TCHÁA-lei quiãã tchê? / BÁATH-rúum quiãã tchê?* ('quiãã' nasal)
 *   **Eu não entendo:**
     *   Original: હું સમજ્યો/સમજી નહિ। (m./f.)
     *   Translit.: *Hũ samajyo/samajī nahi.*
-    *   Pronúncia Aprox.: *Rúun sa-MÁ-djiô/sa-má-DJII na-rí.* ('h' sonoro)
+    *   IPA: /ɦũ səməd͡ʒjo/səməd͡ʒiː nəɦi/
+    *   Pronúncia Aprox.: *Rúun sa-MÁ-djiô/sa-má-DJII na-rí.* ('h' sonoro, 'ũ' nasal)
 *   **Você fala Português/Inglês?** (Adaptação para Inglês - Formal)
     *   Original: તમે અંગ્રેજી બોલો છો?
     *   Translit.: *Tame Aṅgrejī bolo chho?*
+    *   IPA: /t̪əme əŋɡɾed͡ʒiː bolo t͡ʃʰo/
     *   Pronúncia Aprox.: *Ta-MÊ Ang-gre-DJÍI BÔ-lo tchô?*
 
 O Gujarati, língua de Mahatma Gandhi e com uma diáspora empreendedora global, destaca-se por sua escrita sem a linha superior, a manutenção dos três gêneros e sua posição entre as línguas indo-arianas ocidentais e centrais.
@@ -145,4 +156,3 @@ PANDIT, P. B. *Gujarati*. In: SEBEOK, Thomas A. (ed.). *Current Trends in Lingui
 
 SHAH, Shantilal M. *The Students' Gujarati-English Dictionary*. Ahmedabad: Gurjar Prakashan, 1996 (e outras edições). Um dicionário bilíngue amplamente utilizado e acessível, útil para estudantes e consulta de vocabulário Gujarati moderno.
 
----
