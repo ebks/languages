@@ -3,7 +3,7 @@
 
 ## *A Tapeçaria da Diversidade Linguística Humana*
 ----
-*Luciano *Silva
+*Luciano Silva*
 
 ----
 
