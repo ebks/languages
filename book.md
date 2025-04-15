@@ -55,41 +55,83 @@ Através da exploração detalhada de cada uma dessas línguas nas unidades subs
 *   [Unidade 14: Hebraico Bíblico (Afro-Asiático - Semítico)](unidade-014.md)
 *   [Unidade 15: Chinês Antigo / Médio (Sino-Tibetano)](unidade-015.md)
 
+Entendido. Incluirei o título da Parte 2 como um cabeçalho dentro do próprio texto da introdução.
+
+---
+
+**Introdução à Parte 1**
+
+(Texto da Introdução da Parte 1 permanece o mesmo)
+
+*   Unidade 1: Sumério (Isolada)
+*   Unidade 2: Egípcio Antigo (Hieroglífico/Hierático) (Afro-Asiático)
+*   ... (continua a lista da Parte 1) ...
+*   Unidade 15: Chinês Antigo / Médio (Sino-Tibetano)
 
 
 
-Em seguida, dedicamos a **Parte 2 às Línguas Indo-Europeias** modernas e sua vasta expansão, cobrindo seus principais ramos: Germânico (Inglês, Alemão, Holandês, Afrikaans, Sueco, Dinamarquês, Norueguês, Islandês), Romance (Espanhol, Português, Catalão, Francês, Italiano, Romeno), Eslavo (Russo, Ucraniano, Polonês, Tcheco, BCS), Báltico (Lituano, Letão), Celta (Irlandês, Galês), Indo-Ariano (Hindi, Urdu, Bengali), Iraniano (Persa), e os ramos independentes Helênico (Grego Moderno), Armênio e Albanês.
+**Parte 2: As Línguas Indo-Europeias: Da Índia à Islândia**
 
-*   Unidade 16: Inglês (Germânico Ocidental)
-*   Unidade 17: Alemão (Germânico Ocidental)
-*   Unidade 18: Holandês (Germânico Ocidental)
-*   Unidade 19: Afrikaans (Germânico Ocidental)
-*   Unidade 20: Sueco (Germânico Setentrional/Nórdico)
-*   Unidade 21: Dinamarquês (Germânico Setentrional/Nórdico)
-*   Unidade 22: Norueguês (Bokmål/Nynorsk) (Germânico Setentrional/Nórdico)
-*   Unidade 23: Islandês (Germânico Setentrional/Nórdico)
-*   Unidade 24: Espanhol (Romance - Ibero)
-*   Unidade 25: Português (Romance - Ibero)
-*   Unidade 26: Catalão (Romance - Galo-Ibérico/Occitano)
-*   Unidade 27: Francês (Romance - Galo)
-*   Unidade 28: Italiano (Romance - Ítalo)
-*   Unidade 29: Romeno (Romance - Balcânico)
-*   Unidade 30: Russo (Eslavo Oriental)
-*   Unidade 31: Ucraniano (Eslavo Oriental)
-*   Unidade 32: Polonês (Eslavo Ocidental)
-*   Unidade 33: Tcheco (Eslavo Ocidental)
-*   Unidade 34: Servo-Croata-Bósnio (BCS) (Eslavo Meridional)
-*   Unidade 35: Lituano (Báltico)
-*   Unidade 36: Letão (Báltico)
-*   Unidade 37: Irlandês (Celta - Gaélico/Goidélico)
-*   Unidade 38: Galês (Celta - Britônico)
-*   Unidade 39: Hindi (Indo-Ariano)
-*   Unidade 40: Urdu (Indo-Ariano)
-*   Unidade 41: Bengali (Indo-Ariano)
-*   Unidade 42: Persa (Farsi) (Iraniano)
-*   Unidade 43: Grego Moderno (Helênico)
-*   Unidade 44: Armênio (Armênio)
-*   Unidade 45: Albanês (Albanês)
+Após explorarmos as fundações linguísticas da Antiguidade na Parte 1, esta segunda parte se aprofunda na mais extensa e geograficamente dispersa família linguística conhecida: a **Indo-Europeia**. Originária de uma língua ancestral reconstruída, o Proto-Indo-Europeu (PIE), falada há vários milênios (provavelmente nas estepes pôntico-cáspias, embora outras hipóteses existam), esta família abrange a vasta maioria das línguas da Europa, do planalto Iraniano e do norte do subcontinente Indiano, além de ter se espalhado globalmente através da colonização e migração. Sua influência na história cultural, política e intelectual do mundo é incomensurável. O estudo comparativo das línguas indo-europeias, iniciado sistematicamente no século XIX, foi fundamental para o desenvolvimento da própria linguística histórica, permitindo reconstruir aspectos do PIE e traçar as complexas trajetórias de divergência e convergência que levaram à diversidade atual.
+
+O Proto-Indo-Europeu, conforme reconstruído, era uma língua **altamente flexional**, caracterizada por um sistema complexo de casos nominais (provavelmente oito), três gêneros gramaticais (masculino, feminino, neutro), três números (singular, dual, plural), uma morfologia verbal elaborada com distinções de aspecto, modo e voz, e o uso de **ablaut** (alternância vocálica morfologicamente significativa). Embora muitas dessas características tenham sido simplificadas ou perdidas em vários ramos descendentes, a herança flexional permanece como uma marca distintiva da família, e traços como o ablaut ainda são visíveis (por exemplo, nos verbos fortes germânicos ou nas alternâncias radicais em grego e sânscrito).
+
+Esta parte do livro foca nos **ramos modernos e sobreviventes** da família Indo-Europeia, apresentando exemplos representativos de cada um deles. Enquanto a Parte 1 introduziu alguns dos ramos mais antigos atestados (Anatólio, Grego Antigo, Latim, Indo-Iraniano antigo, Germânico antigo, Eslavo antigo), aqui exploraremos suas manifestações contemporâneas ou estágios mais recentes que deram origem às línguas faladas hoje. Observaremos tanto a **persistência de traços arcaicos** em alguns ramos (como o Báltico e, em certos aspectos, o Eslavo e o Islandês) quanto as **inovações e simplificações radicais** ocorridas em outros (como o Inglês e o Persa Moderno), frequentemente sob a influência de contato linguístico e mudanças sociais. *(Sugestão de ilustração: Um mapa mostrando a distribuição geográfica atual dos principais ramos da família Indo-Europeia; uma árvore filogenética simplificada mostrando as relações entre os ramos abordados nesta parte).*
+
+As línguas indo-europeias modernas abordadas nesta parte estão organizadas nos seguintes ramos:
+
+*   **Ramo Germânico:** Descendentes do Proto-Germânico, caracterizados pelos efeitos da Primeira Mudança Consonantal (Lei de Grimm) e da Lei de Verner. Mantêm a distinção entre verbos fortes (com ablaut) e fracos (com sufixo dental). O acento tônico geralmente fixou-se na sílaba inicial (exceto em prefixos). Tendência geral à redução flexional, mais acentuada no sub-ramo Ocidental (Inglês, Holandês, Afrikaans) do que no Alemão, e menos ainda no sub-ramo Setentrional/Nórdico (especialmente no Islandês, que é muito conservador).
+    *   Unidade 16: Inglês (Germânico Ocidental)
+    *   Unidade 17: Alemão (Germânico Ocidental)
+    *   Unidade 18: Holandês (Germânico Ocidental)
+    *   Unidade 19: Afrikaans (Germânico Ocidental)
+    *   Unidade 20: Sueco (Germânico Setentrional/Nórdico)
+    *   Unidade 21: Dinamarquês (Germânico Setentrional/Nórdico)
+    *   Unidade 22: Norueguês (Bokmål/Nynorsk) (Germânico Setentrional/Nórdico)
+    *   Unidade 23: Islandês (Germânico Setentrional/Nórdico)
+
+*   **Ramo Romance (ou Itálico):** Descendentes diretos do Latim Vulgar. Caracterizam-se pela perda quase completa dos casos nominais (exceto em Romeno), perda do gênero neutro, desenvolvimento de artigos definidos e indefinidos, uso extensivo de preposições, formação analítica de muitos tempos verbais (com auxiliares 'ser' e 'ter'), e ordem SVO predominante. Subdivide-se em grupos como Ibero-Romance, Galo-Romance, Ítalo-Romance e Balcano-Romance.
+    *   Unidade 24: Espanhol (Romance - Ibero)
+    *   Unidade 25: Português (Romance - Ibero)
+    *   Unidade 26: Catalão (Romance - Galo-Ibérico/Occitano)
+    *   Unidade 27: Francês (Romance - Galo)
+    *   Unidade 28: Italiano (Romance - Ítalo)
+    *   Unidade 29: Romeno (Romance - Balcânico)
+
+*   **Ramo Eslavo:** Descendentes do Proto-Eslavo (derivado do Balto-Eslavo). Mantêm um alto grau de flexão nominal (geralmente seis ou sete casos), distinção de três gêneros, e uma categoria verbal central de **aspecto** (perfectivo vs. imperfectivo). A palatalização consonantal é fonemicamente importante. Dividem-se em Oriental, Ocidental e Meridional. A influência do Eslavo Eclesiástico foi significativa nas línguas ortodoxas. *(Sugestão de ilustração: Exemplo do alfabeto Cirílico e do alfabeto Latino adaptado para o Polonês/Tcheco).*
+    *   Unidade 30: Russo (Eslavo Oriental)
+    *   Unidade 31: Ucraniano (Eslavo Oriental)
+    *   Unidade 32: Polonês (Eslavo Ocidental)
+    *   Unidade 33: Tcheco (Eslavo Ocidental)
+    *   Unidade 34: Servo-Croata-Bósnio (BCS) (Eslavo Meridional)
+
+*   **Ramo Báltico:** Ramo irmão do Eslavo (formando o Balto-Eslavo), conhecido por seu extremo **arcaísmo**, especialmente o Lituano. Preserva flexão nominal rica (casos, gêneros, vestígios do dual), sistema verbal complexo, e distinções tonais (Lituano) ou intonacionais (Letão) herdadas.
+    *   Unidade 35: Lituano (Báltico)
+    *   Unidade 36: Letão (Báltico)
+
+*   **Ramo Celta:** Dividido em Goidélico (Irlandês, Gaélico Escocês, Manx) e Britônico (Galês, Bretão, Córnico). Caracterizado pelas **mutações consonantais iniciais**, ordem **VSO** predominante, perda da maioria dos casos nominais, e uso de **preposições flexionadas** e **substantivos verbais**.
+    *   Unidade 37: Irlandês (Celta - Gaélico/Goidélico)
+    *   Unidade 38: Galês (Celta - Britônico)
+
+*   **Ramo Indo-Ariano:** Descendentes modernos do Sânscrito, falados principalmente no subcontinente Indiano. Caracterizados pela ordem **SOV**, presença de consoantes retroflexas e aspiradas, desenvolvimento de **alinhamento ergativo** em alguns tempos/aspectos, e, em muitos casos (mas não todos, como Bengali), manutenção do gênero gramatical. Forte influência do Perso-Árabe (especialmente em Urdu) ou do Sânscrito (especialmente em Hindi).
+    *   Unidade 39: Hindi (Indo-Ariano)
+    *   Unidade 40: Urdu (Indo-Ariano)
+    *   Unidade 41: Bengali (Indo-Ariano)
+
+*   **Ramo Iraniano:** Descendentes modernos do Avéstico e Persa Antigo. Ordem **SOV** predominante. O Persa Moderno (Farsi) tornou-se largamente analítico, perdendo casos e gênero, e desenvolvendo a construção **Ezāfe** para relações nominais; absorveu massiva influência árabe. Outras línguas iranianas (não abordadas aqui, como Curdo, Pashto) podem ser mais conservadoras morfologicamente.
+    *   Unidade 42: Persa (Farsi) (Iraniano)
+
+*   **Ramo Helênico:** Representado pelo **Grego Moderno**. Descendente da Koiné. Perdeu a distinção de quantidade vocálica e o acento tonal (substituído por acento de intensidade móvel). Simplificou o sistema de casos (perda do dativo) e a morfologia verbal, mas mantém a distinção aspectual (aoristo/imperfeito) e a voz médio-passiva. Ordem SVO comum, mas flexível. *(Sugestão de ilustração: Exemplo do alfabeto Grego moderno).*
+    *   Unidade 43: Grego Moderno (Helênico)
+
+*   **Ramo Armênio:** Ramo independente com evolução fonológica radical a partir do PIE. Perdeu o gênero gramatical. Desenvolveu um sistema de casos aglutinante e, no Armênio Oriental, consoantes ejetivas. Ordem SOV/SVO. Sofreu forte influência lexical de línguas vizinhas (Iraniano, Grego, Turco, Russo). Usa um alfabeto próprio. *(Sugestão de ilustração: Exemplo do alfabeto Armênio).*
+    *   Unidade 44: Armênio (Armênio)
+
+*   **Ramo Albanês:** Ramo independente, possivelmente descendente do Ilírio ou Trácio. Perdeu o gênero neutro. Mantém flexão de caso e verbal complexa (incluindo modo admirativo). Desenvolveu um artigo definido pós-posto. Ordem SVO comum. Léxico com massiva influência latina, grega, eslava e turca. Usa o alfabeto latino adaptado.
+    *   Unidade 45: Albanês (Albanês)
+
+
+
 
 A **Parte 3** volta-se para as **Línguas Sino-Tibeteanas**, explorando a complexidade tonal e os sistemas de escrita do ramo Sinítico (Mandarim, Cantonês, Wu, Min Nan, Hakka) e a diversidade estrutural do ramo Tibeto-Burmanês (Tibetano, Birmanês, Newari, Meitei, Dzongkha).
 
