@@ -39,21 +39,21 @@ Esta parte do livro reúne um conjunto representativo dessas línguas fundadoras
 
 Através da exploração detalhada de cada uma dessas línguas nas unidades subsequentes, buscamos não apenas descrever suas estruturas individuais, mas também iluminar as conexões históricas, as divergências evolutivas e a imensa contribuição desses "ecos da antiguidade" para o panorama linguístico e cultural do mundo contemporâneo.
 
-*   Unidade 1: Sumério (Isolada)
-*   Unidade 2: Egípcio Antigo (Hieroglífico/Hierático) (Afro-Asiático)
-*   Unidade 3: Acadiano (Incluindo Babilônio e Assírio) (Afro-Asiático - Semítico)
-*   Unidade 4: Hitita (Indo-Europeu - Anatólio)
-*   Unidade 5: Grego Micênico (Linear B) (Indo-Europeu - Helênico)
-*   Unidade 6: Grego Antigo (Clássico) (Indo-Europeu - Helênico)
-*   Unidade 7: Latim (Clássico) (Indo-Europeu - Itálico)
-*   Unidade 8: Sânscrito (Védico e Clássico) (Indo-Europeu - Indo-Ariano)
-*   Unidade 9: Avéstico (Indo-Europeu - Iraniano)
-*   Unidade 10: Persa Antigo (Indo-Europeu - Iraniano)
-*   Unidade 11: Gótico (Indo-Europeu - Germânico)
-*   Unidade 12: Eslavo Eclesiástico Antigo (Indo-Europeu - Eslavo)
-*   Unidade 13: Fenício (Afro-Asiático - Semítico)
-*   Unidade 14: Hebraico Bíblico (Afro-Asiático - Semítico)
-*   Unidade 15: Chinês Antigo / Médio (Sino-Tibetano)
+*   [Unidade 1: Sumério (Isolada)](unidade-0001.md)
+*   [Unidade 2: Egípcio Antigo (Hieroglífico/Hierático) (Afro-Asiático)](unidade-002.md)
+*   [Unidade 3: Acadiano (Incluindo Babilônio e Assírio) (Afro-Asiático - Semítico)](unidade-003.md)
+*   [Unidade 4: Hitita (Indo-Europeu - Anatólio)](unidade-004.md)
+*   [Unidade 5: Grego Micênico (Linear B) (Indo-Europeu - Helênico)](unidade-005.md)
+*   [Unidade 6: Grego Antigo (Clássico) (Indo-Europeu - Helênico)](unidade-006.md)
+*   [Unidade 7: Latim (Clássico) (Indo-Europeu - Itálico)](unidade-007.md)
+*   [Unidade 8: Sânscrito (Védico e Clássico) (Indo-Europeu - Indo-Ariano)](unidade-008.md)
+*   [Unidade 9: Avéstico (Indo-Europeu - Iraniano)](unidade-009.md)
+*   [Unidade 10: Persa Antigo (Indo-Europeu - Iraniano)](unidade-010.md)
+*   [Unidade 11: Gótico (Indo-Europeu - Germânico)](unidade-011.md)
+*   [Unidade 12: Eslavo Eclesiástico Antigo (Indo-Europeu - Eslavo)](unidade-012.md)
+*   [Unidade 13: Fenício (Afro-Asiático - Semítico)](unidade-013.md)
+*   [Unidade 14: Hebraico Bíblico (Afro-Asiático - Semítico)](unidade-014.md)
+*   [Unidade 15: Chinês Antigo / Médio (Sino-Tibetano)](unidade-015.md)
 
 
 
