@@ -67,6 +67,7 @@ Esta parte do livro foca nos **ramos modernos e sobreviventes** da família Indo
 As línguas indo-europeias modernas abordadas nesta parte estão organizadas nos seguintes ramos:
 
 *   **Ramo Germânico:** Descendentes do Proto-Germânico, caracterizados pelos efeitos da Primeira Mudança Consonantal (Lei de Grimm) e da Lei de Verner. Mantêm a distinção entre verbos fortes (com ablaut) e fracos (com sufixo dental). O acento tônico geralmente fixou-se na sílaba inicial (exceto em prefixos). Tendência geral à redução flexional, mais acentuada no sub-ramo Ocidental (Inglês, Holandês, Afrikaans) do que no Alemão, e menos ainda no sub-ramo Setentrional/Nórdico (especialmente no Islandês, que é muito conservador).
+  
     *   Unidade 16: Inglês (Germânico Ocidental)
     *   Unidade 17: Alemão (Germânico Ocidental)
     *   Unidade 18: Holandês (Germânico Ocidental)
@@ -77,6 +78,7 @@ As línguas indo-europeias modernas abordadas nesta parte estão organizadas nos
     *   Unidade 23: Islandês (Germânico Setentrional/Nórdico)
 
 *   **Ramo Romance (ou Itálico):** Descendentes diretos do Latim Vulgar. Caracterizam-se pela perda quase completa dos casos nominais (exceto em Romeno), perda do gênero neutro, desenvolvimento de artigos definidos e indefinidos, uso extensivo de preposições, formação analítica de muitos tempos verbais (com auxiliares 'ser' e 'ter'), e ordem SVO predominante. Subdivide-se em grupos como Ibero-Romance, Galo-Romance, Ítalo-Romance e Balcano-Romance.
+  
     *   Unidade 24: Espanhol (Romance - Ibero)
     *   Unidade 25: Português (Romance - Ibero)
     *   Unidade 26: Catalão (Romance - Galo-Ibérico/Occitano)
@@ -85,6 +87,7 @@ As línguas indo-europeias modernas abordadas nesta parte estão organizadas nos
     *   Unidade 29: Romeno (Romance - Balcânico)
 
 *   **Ramo Eslavo:** Descendentes do Proto-Eslavo (derivado do Balto-Eslavo). Mantêm um alto grau de flexão nominal (geralmente seis ou sete casos), distinção de três gêneros, e uma categoria verbal central de **aspecto** (perfectivo vs. imperfectivo). A palatalização consonantal é fonemicamente importante. Dividem-se em Oriental, Ocidental e Meridional. A influência do Eslavo Eclesiástico foi significativa nas línguas ortodoxas. *(Sugestão de ilustração: Exemplo do alfabeto Cirílico e do alfabeto Latino adaptado para o Polonês/Tcheco).*
+  
     *   Unidade 30: Russo (Eslavo Oriental)
     *   Unidade 31: Ucraniano (Eslavo Oriental)
     *   Unidade 32: Polonês (Eslavo Ocidental)
@@ -92,45 +95,78 @@ As línguas indo-europeias modernas abordadas nesta parte estão organizadas nos
     *   Unidade 34: Servo-Croata-Bósnio (BCS) (Eslavo Meridional)
 
 *   **Ramo Báltico:** Ramo irmão do Eslavo (formando o Balto-Eslavo), conhecido por seu extremo **arcaísmo**, especialmente o Lituano. Preserva flexão nominal rica (casos, gêneros, vestígios do dual), sistema verbal complexo, e distinções tonais (Lituano) ou intonacionais (Letão) herdadas.
+  
     *   Unidade 35: Lituano (Báltico)
     *   Unidade 36: Letão (Báltico)
 
 *   **Ramo Celta:** Dividido em Goidélico (Irlandês, Gaélico Escocês, Manx) e Britônico (Galês, Bretão, Córnico). Caracterizado pelas **mutações consonantais iniciais**, ordem **VSO** predominante, perda da maioria dos casos nominais, e uso de **preposições flexionadas** e **substantivos verbais**.
+  
     *   Unidade 37: Irlandês (Celta - Gaélico/Goidélico)
     *   Unidade 38: Galês (Celta - Britônico)
 
 *   **Ramo Indo-Ariano:** Descendentes modernos do Sânscrito, falados principalmente no subcontinente Indiano. Caracterizados pela ordem **SOV**, presença de consoantes retroflexas e aspiradas, desenvolvimento de **alinhamento ergativo** em alguns tempos/aspectos, e, em muitos casos (mas não todos, como Bengali), manutenção do gênero gramatical. Forte influência do Perso-Árabe (especialmente em Urdu) ou do Sânscrito (especialmente em Hindi).
+  
     *   Unidade 39: Hindi (Indo-Ariano)
     *   Unidade 40: Urdu (Indo-Ariano)
     *   Unidade 41: Bengali (Indo-Ariano)
+    *   Unidade 41-A: Punjabi
+    *   Unidade 41-B: Bengali
+    *   Unidade 41-C: Marathi
+    *   Unidade 41-D: Gujarati
+    *   Unidade 41-E: Nepali
+    *   Unidade 41-F: Maithili
+    *   Unidade 41-G: Rajasthani
+    *   Unidade 41-H: Sinhala
+    *   Unidade 41-I: Dhivehi
+    *   Unidade 41-J: Kashmiri
+    *   Unidade 41-L: Romani
 
 *   **Ramo Iraniano:** Descendentes modernos do Avéstico e Persa Antigo. Ordem **SOV** predominante. O Persa Moderno (Farsi) tornou-se largamente analítico, perdendo casos e gênero, e desenvolvendo a construção **Ezāfe** para relações nominais; absorveu massiva influência árabe. Outras línguas iranianas (não abordadas aqui, como Curdo, Pashto) podem ser mais conservadoras morfologicamente.
+  
     *   Unidade 42: Persa (Farsi) (Iraniano)
 
 *   **Ramo Helênico:** Representado pelo **Grego Moderno**. Descendente da Koiné. Perdeu a distinção de quantidade vocálica e o acento tonal (substituído por acento de intensidade móvel). Simplificou o sistema de casos (perda do dativo) e a morfologia verbal, mas mantém a distinção aspectual (aoristo/imperfeito) e a voz médio-passiva. Ordem SVO comum, mas flexível. *(Sugestão de ilustração: Exemplo do alfabeto Grego moderno).*
+  
     *   Unidade 43: Grego Moderno (Helênico)
 
 *   **Ramo Armênio:** Ramo independente com evolução fonológica radical a partir do PIE. Perdeu o gênero gramatical. Desenvolveu um sistema de casos aglutinante e, no Armênio Oriental, consoantes ejetivas. Ordem SOV/SVO. Sofreu forte influência lexical de línguas vizinhas (Iraniano, Grego, Turco, Russo). Usa um alfabeto próprio. *(Sugestão de ilustração: Exemplo do alfabeto Armênio).*
+  
     *   Unidade 44: Armênio (Armênio)
 
 *   **Ramo Albanês:** Ramo independente, possivelmente descendente do Ilírio ou Trácio. Perdeu o gênero neutro. Mantém flexão de caso e verbal complexa (incluindo modo admirativo). Desenvolveu um artigo definido pós-posto. Ordem SVO comum. Léxico com massiva influência latina, grega, eslava e turca. Usa o alfabeto latino adaptado.
+  
     *   Unidade 45: Albanês (Albanês)
 
 
+**Parte 3: As Línguas Sino-Tibeteanas: Tons, Ideogramas e Tradição Milenar**
 
+Deixando para trás a vasta expansão Indo-Europeia, nossa jornada linguística agora se volta para o leste, para explorar a segunda maior família linguística do mundo em número de falantes: a **Sino-Tibeteana**. Esta imensa e diversificada família domina grande parte da Ásia Oriental, Sudeste Asiático e a região do Himalaia, abrangendo desde o Chinês Mandarim, com seus mais de um bilhão de falantes, até línguas faladas por pequenas comunidades nas montanhas. A reconstrução de sua língua ancestral comum, o Proto-Sino-Tibeteano (PST), é uma tarefa consideravelmente mais desafiadora e controversa do que a do Proto-Indo-Europeu, devido à maior profundidade temporal, à escassez de registros escritos antigos para muitos ramos e à vasta divergência estrutural interna. No entanto, a pesquisa comparativa revelou conexões lexicais e, possivelmente, morfológicas que unem este grupo diversificado.
 
-A **Parte 3** volta-se para as **Línguas Sino-Tibeteanas**, explorando a complexidade tonal e os sistemas de escrita do ramo Sinítico (Mandarim, Cantonês, Wu, Min Nan, Hakka) e a diversidade estrutural do ramo Tibeto-Burmanês (Tibetano, Birmanês, Newari, Meitei, Dzongkha).
+As línguas Sino-Tibeteanas são frequentemente associadas a características tipológicas como a **tonalidade** (o uso de altura ou contorno de pitch para distinguir significados lexicais ou gramaticais) e uma morfologia **isolante/analítica** (onde as palavras tendem a ser morfologicamente invariáveis e as relações gramaticais são indicadas pela ordem das palavras e por partículas). Contudo, é crucial notar que estas são generalizações com muitas exceções. A tonalidade, embora proeminente no ramo Sinítico (Chinês) e em partes do Tibeto-Burmanês (como Lolo-Burmês e alguns dialetos Tibetanos), não é universal na família; muitas línguas Tibeto-Burmanesas não são tonais, e acredita-se que o próprio PST talvez não fosse tonal, com os tons se desenvolvendo posteriormente a partir de características segmentais (como consoantes iniciais ou finais). Da mesma forma, enquanto o ramo Sinítico é predominantemente isolante, o ramo Tibeto-Burmanês exibe uma ampla gama de estruturas morfológicas, desde línguas isolantes até altamente **aglutinantes** (com longas cadeias de afixos) e mesmo com traços **polissintéticos**. A ordem das palavras também varia, com **SVO** (Sujeito-Verbo-Objeto) sendo típica do Sinítico e **SOV** (Sujeito-Objeto-Verbo) predominante no Tibeto-Burmanês. Outra característica notável é a diversidade de sistemas de escrita: o ramo Sinítico utiliza a escrita **logográfica** chinesa (Hanzi), enquanto muitas línguas Tibeto-Burmanesas adotaram **abugidas** de origem Índica (Tibetano, Birmanês) ou outros sistemas. *(Sugestão de ilustração: Um mapa mostrando a distribuição geográfica aproximada dos ramos Sinítico e Tibeto-Burmanês; uma árvore filogenética muito simplificada mostrando a relação hipotética).*
 
-*   Unidade 46: Mandarim (Pǔtōnghuà) (Sinítico)
-*   Unidade 47: Cantonês (Yue) (Sinítico)
-*   Unidade 48: Wu (Xangainês) (Sinítico)
-*   Unidade 49: Min Nan (Hokkien / Taiwanês) (Sinítico)
-*   Unidade 50: Hakka (Sinítico)
-*   Unidade 51: Tibetano (Padrão de Lhasa) (Tibeto-Burmanês - Bódico)
-*   Unidade 52: Birmanês (Myanmar) (Tibeto-Burmanês - Lolo-Birmanês)
-*   Unidade 53: Newari (Nepal Bhasa) (Tibeto-Burmanês - ?)
-*   Unidade 54: Meitei (Manipuri) (Tibeto-Burmanês - ?)
-*   Unidade 55: Dzongkha (Tibeto-Burmanês - Bódico Meridional)
+Esta parte do livro explora os dois ramos principais desta família:
+
+*   **Ramo Sinítico:** Composto pelas diversas variedades linguísticas conhecidas coletivamente como Chinês. Embora tradicionalmente referidas como "dialetos", muitas dessas variedades (como Mandarim, Cantonês, Wu, Min, Hakka, Gan, Xiang) são mutuamente ininteligíveis e melhor compreendidas como línguas distintas dentro de uma mesma subfamília. Compartilham uma origem comum no Chinês Médio e Antigo e, crucialmente, um sistema de escrita logográfico unificador (Hanzi), que permite a comunicação escrita apesar das vastas diferenças fonológicas. As línguas siníticas são caracterizadas por serem **altamente tonais** (com sistemas tonais complexos, especialmente nas variedades do sul) e predominantemente **isolantes/analíticas**, com morfologia flexional mínima, dependência da ordem SVO e uso extensivo de partículas e classificadores. *(Sugestão de ilustração: Exemplo de caracteres chineses, talvez mostrando um composto fono-semântico e as formas tradicional vs. simplificada).*
+  
+    *   Unidade 46: Mandarim (Pǔtōnghuà) (Sinítico)
+    *   Unidade 47: Cantonês (Yue) (Sinítico)
+    *   Unidade 48: Wu (Xangainês) (Sinítico)
+    *   Unidade 49: Min Nan (Hokkien / Taiwanês) (Sinítico)
+    *   Unidade 50: Hakka (Sinítico)
+
+*   **Ramo Tibeto-Burmanês:** Um grupo vasto e extremamente diverso, abrangendo centenas de línguas faladas desde o Planalto Tibetano e o Himalaia até Mianmar, nordeste da Índia e partes do sudoeste da China. A classificação interna do Tibeto-Burmanês é complexa e ainda objeto de pesquisa intensiva. As línguas deste ramo exibem grande variação tipológica. Muitas são **tonais** (como Birmanês, Loloish, dialetos de Lhasa), mas muitas outras não são. A morfologia varia de **isolante** (como Birmanês) a **altamente aglutinante** (como algumas línguas Kiranti ou Bódicas). O alinhamento **ergativo-absolutivo** é encontrado em algumas línguas (como Tibetano e Newari). A ordem das palavras predominante é **SOV**. Os sistemas de escrita são variados, incluindo abugidas de origem índica (Tibetano, Birmanês, Newari histórico, Meitei histórico), alfabetos latinos adaptados, ou ausência de tradição escrita. *(Sugestão de ilustração: Exemplos das escritas Tibetana, Birmanesa e Meitei Mayek).*
+  
+    *   Unidade 51: Tibetano (Padrão de Lhasa) (Tibeto-Burmanês - Bódico)
+    *   Unidade 52: Birmanês (Myanmar) (Tibeto-Burmanês - Lolo-Birmanês)
+    *   Unidade 53: Newari (Nepal Bhasa) (Tibeto-Burmanês - ?)
+    *   Unidade 54: Meitei (Manipuri) (Tibeto-Burmanês - ?)
+    *   Unidade 55: Dzongkha (Tibeto-Burmanês - Bódico Meridional)
+
+As unidades seguintes oferecerão um vislumbre dessa rica diversidade, detalhando a estrutura e as características únicas de línguas selecionadas de ambos os ramos, ilustrando a complexa história e a fascinante variedade de soluções linguísticas encontradas dentro da família Sino-Tibeteana.
+
+---
+**(Continua com a Introdução da Parte 4 e a lista de suas unidades)**
+
 
 Exploramos o berço de civilizações e escritas na **Parte 4: As Línguas Afro-Asiáticas**, cobrindo seus ramos principais: Semítico (Árabe Padrão e oito dialetos, Hebraico moderno, Amárico, Tigrínia, Aramaico), Cuchítico (Somali, Oromo, Afar), Chádico (Hauçá), Berbere (Tamazight, Kabyle), Egípcio (Copta) e Omótico (Wolaytta).
 
