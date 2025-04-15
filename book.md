@@ -55,20 +55,6 @@ Através da exploração detalhada de cada uma dessas línguas nas unidades subs
 *   [Unidade 14: Hebraico Bíblico (Afro-Asiático - Semítico)](unidade-014.md)
 *   [Unidade 15: Chinês Antigo / Médio (Sino-Tibetano)](unidade-015.md)
 
-Entendido. Incluirei o título da Parte 2 como um cabeçalho dentro do próprio texto da introdução.
-
----
-
-**Introdução à Parte 1**
-
-(Texto da Introdução da Parte 1 permanece o mesmo)
-
-*   Unidade 1: Sumério (Isolada)
-*   Unidade 2: Egípcio Antigo (Hieroglífico/Hierático) (Afro-Asiático)
-*   ... (continua a lista da Parte 1) ...
-*   Unidade 15: Chinês Antigo / Médio (Sino-Tibetano)
-
-
 
 **Parte 2: As Línguas Indo-Europeias: Da Índia à Islândia**
 
