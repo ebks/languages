@@ -1,10 +1,11 @@
+----
 # LÍNGUAS DOS MUNDOS 
 
 ## *A Tapeçaria da Diversidade Linguística Humana*
-
+----
 *Luciano *Silva
 
-**Introdução: A Tapeçaria das Línguas – Um Convite à Exploração da Diversidade Linguística Humana**
+----
 
 A linguagem ergue-se como a pedra angular sobre a qual a cognição e a sociedade humana foram edificadas. Mais do que um mero sistema de comunicação, comparável aos encontrados em outras espécies, a linguagem humana é um complexo sistema simbólico, combinatorial e hierárquico que possibilita não apenas a transmissão de informações básicas, mas também a expressão de pensamentos abstratos, a construção de narrativas complexas, a formulação de hipóteses, a preservação e transmissão de conhecimento através das gerações e a própria organização de nossas estruturas sociais e culturais. É através da linguagem que negociamos nossa realidade, construímos identidades, forjamos laços comunitários e damos sentido ao universo que nos cerca. Sua emergência e evolução estão intrinsecamente ligadas à própria evolução da espécie *Homo sapiens*, sendo um fator determinante em nosso desenvolvimento cognitivo e sucesso adaptativo. Este volume debruça-se sobre a manifestação concreta dessa faculdade universal da linguagem: as *línguas* individuais. Embora a capacidade para a linguagem seja um traço biológico compartilhado, sua expressão resulta em uma diversidade estonteante, estimada em cerca de 7.000 línguas faladas atualmente no mundo, sem contar as inúmeras variedades que existiram ao longo da história e aquelas que operam em modalidades não orais, como as línguas de sinais, ou mesmo as que foram deliberadamente construídas pela engenhosidade humana. Compreender essa diversidade não é apenas um exercício de catalogação, mas uma janela para a multiplicidade de formas como a mente humana pode estruturar a experiência, categorizar o mundo e organizar a interação social.
 
