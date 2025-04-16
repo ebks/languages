@@ -164,33 +164,63 @@ Esta parte do livro explora os dois ramos principais desta família:
 
 As unidades seguintes oferecerão um vislumbre dessa rica diversidade, detalhando a estrutura e as características únicas de línguas selecionadas de ambos os ramos, ilustrando a complexa história e a fascinante variedade de soluções linguísticas encontradas dentro da família Sino-Tibeteana.
 
+Perfeito. Dando sequência à estrutura do livro, aqui está a introdução detalhada para a Parte 4, focada nas línguas Afro-Asiáticas, formatada como um texto corrido e seguindo as diretrizes solicitadas.
+
 ---
-**(Continua com a Introdução da Parte 4 e a lista de suas unidades)**
+
+**(Introdução da Parte 3 e Lista de Unidades 46-55)**
+... (Texto anterior) ...
+*   Unidade 55: Dzongkha (Tibeto-Burmanês - Bódico Meridional)
+
+---
+
+**Parte 4: As Línguas Afro-Asiáticas: Berço de Escritas e Civilizações**
+
+Avançando em nossa exploração das grandes famílias linguísticas do mundo, a **Parte 4** nos conduz a um dos agrupamentos mais antigos e historicamente ressonantes: a família **Afro-Asiática**. Com uma profundidade temporal que rivaliza ou mesmo supera a da Indo-Europeia, esta família abrange uma vasta área geográfica que se estende pelo Norte da África, o Chifre da África, o Sahel e o Oriente Médio. É o berço de algumas das primeiras civilizações letradas da humanidade, incluindo o Antigo Egito e as culturas semíticas da Mesopotâmia e do Levante, e está associada ao surgimento de sistemas de escrita fundamentais (hieróglifos egípcios, cuneiforme acadiano, e os abjads semíticos ancestrais da maioria dos alfabetos modernos) e de três das maiores religiões monoteístas do mundo (Judaísmo, Cristianismo e Islamismo). A reconstrução do Proto-Afro-Asiático é um campo de estudo complexo, mas a unidade da família é sustentada por correspondências lexicais e, crucialmente, por características morfológicas compartilhadas, em particular a tendência a uma morfologia baseada em **raízes consonantais** (frequentemente triconsonantais no Semítico e Egípcio) e **padrões vocálicos/afixais** que se combinam para formar palavras e expressar categorias gramaticais. Outras características fonológicas frequentemente associadas à família (embora não universais) incluem a presença de consoantes **guturais** (faríngeas como /ħ, ʕ/ e laríngeas como /h, ʔ/) e **consoantes enfáticas** (frequentemente faringalizadas, como /sˤ, dˤ, tˤ/, ou glotalizadas/ejetivas em ramos como o Etio-Semítico e o Chádico). A distinção de **gênero** (tipicamente masculino e feminino) é comum na morfologia nominal e pronominal. Os sistemas verbais frequentemente exibem derivações de temas (como os *binyanim* hebraicos ou os *awzān* árabes) e marcação aspectual (perfectivo/imperfectivo). A ordem sintática varia, com VSO sendo comum no Semítico antigo e Berbere, SVO no Egípcio tardio/Copta e em muitas línguas Chádicas e Berberes modernas, e SOV em partes do Cuchítico, Omótico e Etio-Semítico (provavelmente devido a contato). *(Sugestão de ilustração: Um mapa mostrando a distribuição geográfica dos seis ramos da família Afro-Asiática; uma tabela comparativa simples mostrando exemplos de raízes triconsonantais e padrões em Semítico e Egípcio; exemplos das escritas hieroglífica, cuneiforme acadiana, hebraica, árabe, Ge'ez e Tifinagh).*
+
+Esta parte explora a diversidade dentro desta venerável família, apresentando exemplos de seus seis ramos principais:
+
+*   **Ramo Semítico:** O ramo mais amplamente falado e documentado, originário do Oriente Médio. Caracterizado pela morfologia de raiz e padrão altamente desenvolvida, presença de guturais e enfáticas, e uma história rica registrada em cuneiforme (Acadiano) e abjads (Fenício, Aramaico, Hebraico, Árabe). Esta seção inclui o Árabe, tanto em sua forma padrão moderna (MSA) quanto em uma seleção representativa de seus diversos dialetos vernáculos (Egípcio, Marroquino, Levantino, Iraquiano, Golfo, Iemenita, Sudanês, Hassaniya), ilustrando o fenômeno da diglossia. Inclui também o Hebraico moderno (um caso notável de revitalização), o Amárico e o Tigrínia (línguas etio-semíticas com características próprias como ejetivas e ordem SOV) e o Aramaico (representado pelo Siríaco clássico e uma menção às formas modernas).
+    *   Unidade 56: Árabe (Padrão Moderno) (Semítico)
+    *   Unidade 57: Árabe Egípcio (Dialeto do Cairo) (Semítico)
+    *   Unidade 58: Árabe Marroquino (Darija) (Semítico - Magrebino)
+    *   Unidade 59: Árabe Levantino (Sírio/Libanês) (Semítico)
+    *   Unidade 60: Árabe Iraquiano (Dialeto de Bagdá) (Semítico - Mesopotâmico)
+    *   Unidade 61: Árabe do Golfo (Khaliji - Kuwaitiano/Emirati) (Semítico)
+    *   Unidade 62: Árabe Iemenita (Dialeto Sanaani) (Semítico)
+    *   Unidade 63: Árabe Sudanês (Dialeto de Cartum) (Semítico)
+    *   Unidade 64: Árabe Hassaniya (Mauritano) (Semítico - Magrebino)
+    *   Unidade 65: Hebraico (Moderno) (Semítico)
+    *   Unidade 66: Amárico (Semítico)
+    *   Unidade 67: Tigrínia (Semítico)
+    *   Unidade 68: Aramaico (Siríaco Clássico/Neo-Aramaico) (Semítico)
+
+*   **Ramo Cuchítico:** Falado principalmente no Chifre da África. Caracterizado por sistemas de casos (muitas vezes marcados por sufixos ou tom/acento), ordem SOV frequente, e sistemas verbais complexos. Exemplos incluem Somali, Oromo e Afar.
+    *   Unidade 69: Somali (Cuchítico)
+    *   Unidade 70: Oromo (Cuchítico)
+    *   Unidade 71: Afar (Cuchítico)
+
+*   **Ramo Chádico:** Falado na região do Lago Chade (Nigéria, Níger, Chade, Camarões). É o ramo com o maior número de línguas. Caracterizado pela presença frequente de tons e consoantes glotalizadas (implosivas e ejetivas). A ordem SVO é comum. O Hauçá é o membro mais proeminente e uma importante língua franca.
+    *   Unidade 72: Hauçá (Chádico)
+
+*   **Ramo Berbere (Amazigh):** As línguas indígenas do Norte da África. Caracterizadas por um sistema vocálico frequentemente reduzido, presença de enfáticas e guturais, morfologia nominal com distinção de gênero e estado (livre vs. anexo), morfologia verbal aspectual complexa, e ordem VSO/SVO. Possui uma escrita antiga (Tifinagh) revitalizada. Exemplos incluem Tamazight (Atlas Central/Padrão Marroquino) e Kabyle.
+    *   Unidade 73: Tamazight (Berbere do Atlas Central ou Padrão) (Berbere)
+    *   Unidade 74: Kabyle (Berbere)
+
+*   **Ramo Egípcio:** Representado historicamente pelo Egípcio Antigo e seu estágio final, o Copta. Caracterizado por raízes consonantais, ordem VSO no Clássico mudando para SVO no Copta, e desenvolvimento de artigos e construções verbais analíticas no Copta sob influência grega. A escrita hieroglífica é icônica.
+    *   Unidade 75: Copta (Histórico/Litúrgico) (Egípcio)
+
+*   **Ramo Omótico:** Falado no sudoeste da Etiópia. Sua classificação dentro do Afro-Asiático (ou mesmo como um grupo coerente) é por vezes debatida. As línguas omóticas frequentemente exibem tons, morfologia aglutinante e podem ter características tipológicas que diferem de outros ramos. Wolaytta é um exemplo representativo.
+    *   Unidade 76: Wolaytta (Omótico)
+
+Através destas unidades, exploraremos a rica diversidade estrutural e a profunda ressonância histórica das línguas Afro-Asiáticas, desde os sistemas de escrita mais antigos até as vibrantes línguas faladas hoje por centenas de milhões de pessoas.
+
+---
+**(Continua com a Introdução da Parte 5 e a lista de suas unidades)**
 
 
-Exploramos o berço de civilizações e escritas na **Parte 4: As Línguas Afro-Asiáticas**, cobrindo seus ramos principais: Semítico (Árabe Padrão e oito dialetos, Hebraico moderno, Amárico, Tigrínia, Aramaico), Cuchítico (Somali, Oromo, Afar), Chádico (Hauçá), Berbere (Tamazight, Kabyle), Egípcio (Copta) e Omótico (Wolaytta).
 
-*   Unidade 56: Árabe (Padrão Moderno) (Semítico)
-*   Unidade 57: Árabe Egípcio (Dialeto do Cairo) (Semítico)
-*   Unidade 58: Árabe Marroquino (Darija) (Semítico - Magrebino)
-*   Unidade 59: Árabe Levantino (Sírio/Libanês) (Semítico)
-*   Unidade 60: Árabe Iraquiano (Dialeto de Bagdá) (Semítico - Mesopotâmico)
-*   Unidade 61: Árabe do Golfo (Khaliji - Kuwaitiano/Emirati) (Semítico)
-*   Unidade 62: Árabe Iemenita (Dialeto Sanaani) (Semítico)
-*   Unidade 63: Árabe Sudanês (Dialeto de Cartum) (Semítico)
-*   Unidade 64: Árabe Hassaniya (Mauritano) (Semítico - Magrebino)
-*   Unidade 65: Hebraico (Moderno) (Semítico)
-*   Unidade 66: Amárico (Semítico)
-*   Unidade 67: Tigrínia (Semítico)
-*   Unidade 68: Aramaico (Siríaco Clássico/Neo-Aramaico) (Semítico)
-*   Unidade 69: Somali (Cuchítico)
-*   Unidade 70: Oromo (Cuchítico)
-*   Unidade 71: Afar (Cuchítico)
-*   Unidade 72: Hauçá (Chádico)
-*   Unidade 73: Tamazight (Berbere do Atlas Central ou Padrão) (Berbere)
-*   Unidade 74: Kabyle (Berbere)
-*   Unidade 75: Copta (Histórico/Litúrgico) (Egípcio)
-*   Unidade 76: Wolaytta (Omótico)
+
 
 A **Parte 5** mergulha na vasta e rica diversidade sonora da África Subsaariana com as **Línguas Nígero-Congolesas**, apresentando exemplos dos subgrupos Bantu, Volta-Níger, Atlântico, Mande, Kwa e Gur.
 
