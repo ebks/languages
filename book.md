@@ -164,16 +164,6 @@ Esta parte do livro explora os dois ramos principais desta família:
 
 As unidades seguintes oferecerão um vislumbre dessa rica diversidade, detalhando a estrutura e as características únicas de línguas selecionadas de ambos os ramos, ilustrando a complexa história e a fascinante variedade de soluções linguísticas encontradas dentro da família Sino-Tibeteana.
 
-Perfeito. Dando sequência à estrutura do livro, aqui está a introdução detalhada para a Parte 4, focada nas línguas Afro-Asiáticas, formatada como um texto corrido e seguindo as diretrizes solicitadas.
-
----
-
-**(Introdução da Parte 3 e Lista de Unidades 46-55)**
-... (Texto anterior) ...
-*   Unidade 55: Dzongkha (Tibeto-Burmanês - Bódico Meridional)
-
----
-
 **Parte 4: As Línguas Afro-Asiáticas: Berço de Escritas e Civilizações**
 
 Avançando em nossa exploração das grandes famílias linguísticas do mundo, a **Parte 4** nos conduz a um dos agrupamentos mais antigos e historicamente ressonantes: a família **Afro-Asiática**. Com uma profundidade temporal que rivaliza ou mesmo supera a da Indo-Europeia, esta família abrange uma vasta área geográfica que se estende pelo Norte da África, o Chifre da África, o Sahel e o Oriente Médio. É o berço de algumas das primeiras civilizações letradas da humanidade, incluindo o Antigo Egito e as culturas semíticas da Mesopotâmia e do Levante, e está associada ao surgimento de sistemas de escrita fundamentais (hieróglifos egípcios, cuneiforme acadiano, e os abjads semíticos ancestrais da maioria dos alfabetos modernos) e de três das maiores religiões monoteístas do mundo (Judaísmo, Cristianismo e Islamismo). A reconstrução do Proto-Afro-Asiático é um campo de estudo complexo, mas a unidade da família é sustentada por correspondências lexicais e, crucialmente, por características morfológicas compartilhadas, em particular a tendência a uma morfologia baseada em **raízes consonantais** (frequentemente triconsonantais no Semítico e Egípcio) e **padrões vocálicos/afixais** que se combinam para formar palavras e expressar categorias gramaticais. Outras características fonológicas frequentemente associadas à família (embora não universais) incluem a presença de consoantes **guturais** (faríngeas como /ħ, ʕ/ e laríngeas como /h, ʔ/) e **consoantes enfáticas** (frequentemente faringalizadas, como /sˤ, dˤ, tˤ/, ou glotalizadas/ejetivas em ramos como o Etio-Semítico e o Chádico). A distinção de **gênero** (tipicamente masculino e feminino) é comum na morfologia nominal e pronominal. Os sistemas verbais frequentemente exibem derivações de temas (como os *binyanim* hebraicos ou os *awzān* árabes) e marcação aspectual (perfectivo/imperfectivo). A ordem sintática varia, com VSO sendo comum no Semítico antigo e Berbere, SVO no Egípcio tardio/Copta e em muitas línguas Chádicas e Berberes modernas, e SOV em partes do Cuchítico, Omótico e Etio-Semítico (provavelmente devido a contato). *(Sugestão de ilustração: Um mapa mostrando a distribuição geográfica dos seis ramos da família Afro-Asiática; uma tabela comparativa simples mostrando exemplos de raízes triconsonantais e padrões em Semítico e Egípcio; exemplos das escritas hieroglífica, cuneiforme acadiana, hebraica, árabe, Ge'ez e Tifinagh).*
